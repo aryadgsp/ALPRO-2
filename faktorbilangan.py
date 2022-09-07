@@ -8,3 +8,5 @@ def print_faktor(x):
 num = int(input("Masukkan bilangan: "))
 
 print_faktor(num)
+
+print("Hello World!")
